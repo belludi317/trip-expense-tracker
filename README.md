@@ -8,7 +8,7 @@ A simple python project to track trip expenses
 -Displays expenses in a simple table
 -Calculates expense share per person
 
-##Expenses tracked 
+## Expenses tracked 
 
 -Train/Bus ticket
 -Taxi fare
@@ -16,14 +16,14 @@ A simple python project to track trip expenses
 -Groceries
 -Other expenses
 
-##How to run
+## How to run
 
 1.Make sure Python compiler is installed(eg:VS code).
 2.Run the 'trip-expense-tracker.py' file.
 3.Enter the expenses when asked
 4.Enter the number of people on the trip.
 
-##what I learned
+## What I learned
 
 This project helped me to practice:
 -Variables
