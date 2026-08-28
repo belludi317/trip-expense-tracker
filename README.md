@@ -26,6 +26,9 @@ A simple python project to track trip expenses
 ## What I learned
 
 This project helped me to practice:
+
+## Open Source
+This project is open source and beginners are welcome to explore, use, and improve it.
 - Variables
 - User input
 - Arithmetic operations
